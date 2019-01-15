@@ -159,6 +159,6 @@ fn bob() {
             .map(|s| model.stop_points.get_idx(s).unwrap())
             .collect()
     );
-    assert!(false);
+    //assert!(false);
 }
 }
